@@ -19,12 +19,14 @@ We based our smart display off of [MycroftAI](https://mycroft.ai/) furthermore w
 * **MicroSD Card**
   <br>8 GB or larger
 * HDMI Monitor and keyboard, only required during setup
+* Raspberry Pi DSI Touchscreen
 
 
 ## Installation (sort of)
 
 While making our Smart Display we didn't necessarily think about the end user experience of creating the device itself, so it isnt really that pollised, but it should be possible.
 This organization consists of two Mycroft AI skills, one used to git clone our own repos [Cloner](https://github.com/Tux-Display/Cloner), just for ease of use and our [Clock-Display](https://github.com/Tux-Display/Clock-Display) skill which shows our representation of Mycroft and on swipe show the current time, the HTML/CSS/JS files required for this the work are stored in the [Homescreen](https://github.com/Tux-Display/Homescreen)repo. 
+The skills can be installed by git cloning the repos into ~/mycroft-core/skills
 
 <!--
 
