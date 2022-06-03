@@ -6,18 +6,20 @@ We based our smart display off of [MycroftAI](https://mycroft.ai/) furthermore w
 
 ## Requirements
 
-Raspberry Pi 3, 3B+, or 4
-Older Raspberry Pi versions do not have sufficient processing power, and if they work they will be very slow
-Speaker
-Any analog speaker, or an HDMI monitor with speaker
-Microphone
-A list of Community tested hardware is available in our documentation.
-2.5 Amp or better power supply
-Don't skimp on this! It might appear to work, but you'll have weird issues with a cheapo supply.
-MicroSD Card
-8 GB or larger
-HDMI Monitor and keyboard, only required during setup
-Raspberry Pi Touchscreen Display
+* **Raspberry Pi 3, 3B+, or 4**
+  <br>_Older Raspberry Pi versions do not have sufficient processing power,
+  and if they work they will be very slow_
+* **Speaker**
+  <br>Any analog speaker, or an HDMI monitor with speaker
+* **Microphone**
+  <br>A [list of Community tested hardware](https://mycroft-ai.gitbook.io/docs/using-mycroft-ai/get-mycroft/picroft#tested-hardware) is available in our documentation.
+* **2.5 Amp or better power supply**
+  <br>Don't skimp on this!  It might appear to work, but you'll have weird
+  issues with a cheapo supply.
+* **MicroSD Card**
+  <br>8 GB or larger
+* HDMI Monitor and keyboard, only required during setup
+
 
 ## Installation (sort of)
 
